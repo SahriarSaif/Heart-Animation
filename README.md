@@ -9,6 +9,9 @@ A Three.js particle animation that morphs between a ⭐ star and ❤️ heart wi
 - Smooth particle animation
 - Interactive controls
 
+## Preview
+![Preview](preview.jpg)
+
 ## Usage
 
 Just open "index.html" in your browser.
